@@ -42,3 +42,6 @@ section {
 :root {
   --my-custom-color: #00d0ff;
 }
+.Deskripsi {
+   text-align: justify;
+}
